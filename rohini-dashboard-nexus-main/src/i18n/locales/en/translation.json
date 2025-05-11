@@ -1,0 +1,46 @@
+{
+  "common": {
+    "welcome": "Welcome to Gram Sansad Rohini",
+    "login": {
+      "title": "Sign in to your account",
+      "email": "Email address",
+      "password": "Password",
+      "submit": "Sign in",
+      "error": "Invalid credentials"
+    },
+    "navigation": {
+      "dashboard": "Dashboard",
+      "daakhle": "Daakhle",
+      "takraar": "Takraar",
+      "propertyTax": "Property Tax",
+      "birthCertificate": "Birth Certificate",
+      "deathCertificate": "Death Certificate",
+      "propertyCertificate": "Property Certificate"
+    },
+    "forms": {
+      "required": "This field is required",
+      "submit": "Submit",
+      "cancel": "Cancel",
+      "save": "Save",
+      "edit": "Edit",
+      "delete": "Delete"
+    },
+    "propertyForm": {
+      "title": "Property Certificate Application",
+      "villageName": "Village Name",
+      "financialYear": "Financial Year",
+      "propertyDetails": "Property Details",
+      "propertyNumber": "Property Number",
+      "wardNumber": "Ward Number",
+      "streetName": "Street Name",
+      "ownerDetails": "Property Owner Details",
+      "firstName": "First Name",
+      "middleName": "Middle Name",
+      "lastName": "Last Name",
+      "aadhaarNumber": "Aadhaar Number",
+      "confirmAadhaar": "Confirm Aadhaar Number",
+      "mobileNumber": "Mobile Number",
+      "copies": "Number of Copies Required"
+    }
+  }
+}
